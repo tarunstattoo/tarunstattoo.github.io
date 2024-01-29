@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taruns Tattoo</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Oct 2023 13:01:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo-1-e1698161341587.png</url>
+	<title>Taruns Tattoo</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lorem ipsum dolor sit amet, consectetur (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-3/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 08:31:30 +0000</pubDate>
+				<category><![CDATA[Dream (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3374</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor sit amet, consectetur (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-2/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 08:30:31 +0000</pubDate>
+				<category><![CDATA[Dream (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3372</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor sit amet, consectetur (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 08:28:55 +0000</pubDate>
+				<category><![CDATA[Dream (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3370</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-sit-amet-consectetur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-12/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-12/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:57:29 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3366</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-11/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:56:51 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3364</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-10/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:55:31 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3362</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Images Blog Post (Demo)</title>
+		<link>/index.php/2019/01/18/images-blog-post/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Fri, 18 Jan 2019 12:07:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Multimedia (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+		<guid isPermaLink="false">http://democontent.codex-themes.com/sites/agency-digital/?p=723</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<section class="wpb-content-wrapper"><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb21cf69" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1547907762580 thegem-custom-65a41eb21cf1a2853 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb21cf69")); }</script><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb22ab064972" ><div class="vc_column-inner thegem-custom-inner-65a41eb22ab0e vc_custom_1553585761398"><div class="wpb_wrapper thegem-custom-65a41eb22ab064972"><div class="vc_row wpb_row vc_inner vc_row-fluid thegem-custom-65a41eb23dbe01999 custom-inner-column-65a41eb23dbf8" ><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb2450983132"><div class="vc_column-inner thegem-custom-inner-65a41eb24509f vc_custom_1553585684563"><div class="wpb_wrapper thegem-custom-65a41eb2450983132"><div class="clearboth"></div><style>#thegem-divider-65a41eb245203 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb245203" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1024" height="1019" src="/wp-content/uploads/2019/01/2-4-1024x1019.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" title="2 (Demo)" fetchpriority="high" srcset="/wp-content/uploads/2019/01/2-4-1024x1019.jpg 1024w, /wp-content/uploads/2019/01/2-4-300x298.jpg 300w, /wp-content/uploads/2019/01/2-4-150x150.jpg 150w, /wp-content/uploads/2019/01/2-4-768x764.jpg 768w, /wp-content/uploads/2019/01/2-4-256x256.jpg 256w, /wp-content/uploads/2019/01/2-4.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></div>
+		</figure>
+	</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb246d1f566"><div class="vc_column-inner thegem-custom-inner-65a41eb246d25 vc_custom_1553585677637"><div class="wpb_wrapper thegem-custom-65a41eb246d1f566"><div class="clearboth"></div><style>#thegem-divider-65a41eb246eac {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb246eac" class="gem-divider  " style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left right-to-left vc_custom_1551087848425 thegem-vc-text thegem-custom-65a41eb24703b7012"  >
+			<div class="wpb_wrapper">
+				<div class="styled-subtitle title-h4" style="text-align: left;">Lorem ipsum dolor sit amet</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb24703b7012{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb24703b7012{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb24703b7012{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb24703b7012{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551087859021 thegem-vc-text thegem-custom-65a41eb2471c76865"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb2471c76865{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb2471c76865{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb2471c76865{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb2471c76865{position: relative !important;}}</style>
+		</div>
+	
+<div class="gem-list lazy-loading gem-list-type-check-style-2 gem-list-color-2" ><ul>
+<li>Lorem ipsum dolor sit amet, consectetur adi pisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</li>
+</ul>
+</div><div class="clearboth"></div><style>#thegem-divider-65a41eb2473b5 {margin-top: 40px !important;}</style><div id="thegem-divider-65a41eb2473b5" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553586010778 thegem-vc-text thegem-custom-65a41eb24746b6135"  >
+			<div class="wpb_wrapper">
+				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb24746b6135{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb24746b6135{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb24746b6135{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb24746b6135{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid thegem-custom-65a41eb2478327637 custom-inner-column-65a41eb247841" ><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb247a683824"><div class="vc_column-inner thegem-custom-inner-65a41eb247a6b "><div class="wpb_wrapper thegem-custom-65a41eb247a683824"><div class="clearboth"></div><style>#thegem-divider-65a41eb247b62 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb247b62" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top thegem-vc-text thegem-custom-65a41eb247bee9675"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb247bee9675{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb247bee9675{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb247bee9675{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb247bee9675{position: relative !important;}}</style>
+		</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb247cb6 {margin-top: 30px !important;}</style><div id="thegem-divider-65a41eb247cb6" class="gem-divider  " style="" ></div><div class="clearboth"></div><style>#thegem-divider-65a41eb247cde {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb247cde" class="gem-divider  divider-hidden" style="" ></div><div style='background-color: #ffffff; '  class="gem-quote gem-quote-style-1 gem-quote-no-paddings" ><blockquote  >&#8230;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</blockquote></div><div class="clearboth"></div><style>#thegem-divider-65a41eb247d1c {margin-top: 25px !important;}</style><div id="thegem-divider-65a41eb247d1c" class="gem-divider  divider-hidden" style="" ></div><div class="clearboth"></div><style>#thegem-divider-65a41eb247d37 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb247d37" class="gem-divider  " style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553586170360 thegem-vc-text thegem-custom-65a41eb247dce8914"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb247dce8914{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb247dce8914{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb247dce8914{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb247dce8914{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb24801c6294"><div class="vc_column-inner thegem-custom-inner-65a41eb24801e "><div class="wpb_wrapper thegem-custom-65a41eb24801c6294"><div class="clearboth"></div><style>#thegem-divider-65a41eb2480e9 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb2480e9" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1024" height="1019" src="/wp-content/uploads/2019/01/3-2-1024x1019.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" title="3 (Demo)" srcset="/wp-content/uploads/2019/01/3-2-1024x1019.jpg 1024w, /wp-content/uploads/2019/01/3-2-300x298.jpg 300w, /wp-content/uploads/2019/01/3-2-150x150.jpg 150w, /wp-content/uploads/2019/01/3-2-768x764.jpg 768w, /wp-content/uploads/2019/01/3-2-256x256.jpg 256w, /wp-content/uploads/2019/01/3-2.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></div>
+		</figure>
+	</div>
+	
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-65a41eb248bcc" class="vc_row wpb_row vc_row-fluid images-blog-post thegem-custom-65a41eb248bbd2988"><div class="wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb248daa7380" ><div class="vc_column-inner thegem-custom-inner-65a41eb248dac "><div class="wpb_wrapper thegem-custom-65a41eb248daa7380"><style>.gem-gallery-grid#style-65a41eb24932f .gallery-item { padding: calc(42px/2) !important; }.gem-gallery-grid#style-65a41eb24932f .gallery-set { margin-top: calc(-42px/2); margin-bottom: calc(-42px/2); }.gem-gallery-grid#style-65a41eb24932f .not-fullwidth-block .gallery-set, .gem-gallery-grid#style-65a41eb24932f .not-fullwidth-block .portfolio-item-size-container { margin-left: calc(-42px/2); margin-right: calc(-42px/2); }.gem-gallery-grid#style-65a41eb24932f .fullwidth-block { padding-left: calc(42px/2); padding-right: calc(42px/2); }.gem-gallery-grid#style-65a41eb24932f .portfolio-filters { text-align: center }</style><div id="style-preloader-65a41eb24932f" class="preloader save-space"><div class="preloader-spin"></div></div> <div class="gallery-preloader-wrapper"> <div class="row"> <div id="style-65a41eb24932f" class="gem-gallery-grid col-lg-12 col-md-12 col-sm-12 gallery-style-justified hover-default loading-animation item-animation-move-up columns-4 columns-tablet-2 columns-mobile-1 gaps-margin " data-hover="default" data-uid="65a41eb24932f" data-filter="[]"> <div class="portfolio not-fullwidth-block "> <ul class="gallery-set clearfix" data-max-row-height="280"> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-723 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/7-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/7-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/7-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="7 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/7-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb24932f"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/7-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-723 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/6-3.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/6-3-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/6-3-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="6 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/6-3.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb24932f"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/6-3.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-723 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/5-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/5-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/5-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="5 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/5-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb24932f"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/5-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-723 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/4-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/4-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/4-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="4 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/4-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb24932f"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/4-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> </ul> <div class="portfolio-item-size-container"> <li class="gallery-item size-item col-xs-12 col-sm-6 col-md-3 post-723 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> </li> </div> </div> </div> </div> </div></div></div></div></div>
+</section>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Images Blog Post (Demo)</title>
+		<link>/index.php/2019/01/17/images-blog-post-2/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2019 06:30:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Multimedia (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+		<guid isPermaLink="false">http://democontent.codex-themes.com/sites/agency-digital/images-blog-post-copy/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<section class="wpb-content-wrapper"><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb35f62a" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1553587909976 thegem-custom-65a41eb35f5fc3874 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb35f62a")); }</script><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb35f8ba2366" ><div class="vc_column-inner thegem-custom-inner-65a41eb35f8be "><div class="wpb_wrapper thegem-custom-65a41eb35f8ba2366"><div class="preloader"><div class="preloader-spin"></div></div> <div class="gem-gallery gem-gallery-hover-default no-thumbs"> <div class="gem-gallery-item"> <div class="gem-gallery-item-image"> <a href="/wp-content/uploads/2019/02/1-thegem-gallery-fullwidth.jpg" data-fancybox-group="gallery-65a41eb35fec4" data-full-image-url="/wp-content/uploads/2019/02/1.jpg"> <svg width="20" height="10"><path d="M 0,10 Q 9,9 10,0 Q 11,9 20,10" /></svg> <img src="/wp-content/uploads/2019/02/1-thegem-post-thumb-small.jpg" alt="" class="img-responsive"> <span class="gem-gallery-caption slide-info"> </span> </a> <span class="gem-gallery-line"></span> </div> </div> <div class="gem-gallery-item"> <div class="gem-gallery-item-image"> <a href="/wp-content/uploads/2019/02/2-thegem-gallery-fullwidth.jpg" data-fancybox-group="gallery-65a41eb35fec4" data-full-image-url="/wp-content/uploads/2019/02/2.jpg"> <svg width="20" height="10"><path d="M 0,10 Q 9,9 10,0 Q 11,9 20,10" /></svg> <img src="/wp-content/uploads/2019/02/2-thegem-post-thumb-small.jpg" alt="" class="img-responsive"> <span class="gem-gallery-caption slide-info"> </span> </a> <span class="gem-gallery-line"></span> </div> </div> <div class="gem-gallery-item"> <div class="gem-gallery-item-image"> <a href="/wp-content/uploads/2019/02/3-thegem-gallery-fullwidth.jpg" data-fancybox-group="gallery-65a41eb35fec4" data-full-image-url="/wp-content/uploads/2019/02/3.jpg"> <svg width="20" height="10"><path d="M 0,10 Q 9,9 10,0 Q 11,9 20,10" /></svg> <img src="/wp-content/uploads/2019/02/3-thegem-post-thumb-small.jpg" alt="" class="img-responsive"> <span class="gem-gallery-caption slide-info"> </span> </a> <span class="gem-gallery-line"></span> </div> </div> <div class="gem-gallery-item"> <div class="gem-gallery-item-image"> <a href="/wp-content/uploads/2019/02/4-thegem-gallery-fullwidth.jpg" data-fancybox-group="gallery-65a41eb35fec4" data-full-image-url="/wp-content/uploads/2019/02/4.jpg"> <svg width="20" height="10"><path d="M 0,10 Q 9,9 10,0 Q 11,9 20,10" /></svg> <img src="/wp-content/uploads/2019/02/4-thegem-post-thumb-small.jpg" alt="" class="img-responsive"> <span class="gem-gallery-caption slide-info"> </span> </a> <span class="gem-gallery-line"></span> </div> </div> </div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-65a41eb372c03" class="vc_row wpb_row vc_row-fluid thegem-custom-65a41eb372bea707"><div class="wpb_column vc_column_container vc_col-sm-3 thegem-custom-65a41eb372e3e8586" ><div class="vc_column-inner thegem-custom-inner-65a41eb372e41 "><div class="wpb_wrapper thegem-custom-65a41eb372e3e8586"><div class="clearboth"></div><style>#thegem-divider-65a41eb372f5e {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb372f5e" class="gem-divider  divider-hidden" style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style=""><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;">
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-65a41eb3730942659"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3730942659{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3730942659{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3730942659{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3730942659{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 thegem-custom-65a41eb3732ba9321" ><div class="vc_column-inner thegem-custom-inner-65a41eb3732bd "><div class="wpb_wrapper thegem-custom-65a41eb3732ba9321"><div class="clearboth"></div><style>#thegem-divider-65a41eb37339f {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb37339f" class="gem-divider  divider-hidden" style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style=""><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;">
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-65a41eb3734926986"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3734926986{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3734926986{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3734926986{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3734926986{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 thegem-custom-65a41eb3736b1904" ><div class="vc_column-inner thegem-custom-inner-65a41eb3736b3 "><div class="wpb_wrapper thegem-custom-65a41eb3736b1904"><div class="clearboth"></div><style>#thegem-divider-65a41eb37378a {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb37378a" class="gem-divider  divider-hidden" style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style=""><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;">
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-65a41eb3738756681"  >
+			<div class="wpb_wrapper">
+				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3738756681{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3738756681{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3738756681{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3738756681{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 thegem-custom-65a41eb373a945307" ><div class="vc_column-inner thegem-custom-inner-65a41eb373a97 "><div class="wpb_wrapper thegem-custom-65a41eb373a945307"><div class="clearboth"></div><style>#thegem-divider-65a41eb373b78 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb373b78" class="gem-divider  divider-hidden" style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style=""><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;">
+	
+		<div class="wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-65a41eb373c6b2705"  >
+			<div class="wpb_wrapper">
+				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.<br />
+Sed quia non numquam eius modi tempora incidunt ut labore et dolore</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb373c6b2705{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb373c6b2705{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb373c6b2705{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb373c6b2705{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb374052" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551088872807 thegem-custom-65a41eb3740393597"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb374052")); }</script><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb3741f61802" ><div class="vc_column-inner thegem-custom-inner-65a41eb3741f8 "><div class="wpb_wrapper thegem-custom-65a41eb3741f61802"><div style='background-color: #ffffff; '  class="gem-quote gem-quote-style-1 gem-quote-no-paddings custom-color-blockqute-mark-added" ><blockquote  >&#8230;Lorem ipsum dolor sit amet, consectetur adi pisicing elit sed do eiusmod tempor!</blockquote><span style=color:#a3e7f0;  class="custom-color-blockqute-mark">&#xe60c;</span></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-65a41eb374465" class="vc_row wpb_row vc_row-fluid thegem-custom-65a41eb37445b8592"><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb3746276825" ><div class="vc_column-inner thegem-custom-inner-65a41eb374629 "><div class="wpb_wrapper thegem-custom-65a41eb3746276825"><div class="clearboth"></div><style>#thegem-divider-65a41eb374704 {margin-top: 80px !important;}</style><div id="thegem-divider-65a41eb374704" class="gem-divider  divider-hidden" style="" ></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey vc_separator-has-text"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><h2 class="light">PRESENTERS</h2><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="clearboth"></div><style>#thegem-divider-65a41eb374a54 {margin-top: 100px !important;}</style><div id="thegem-divider-65a41eb374a54" class="gem-divider  divider-hidden" style="" ></div></div></div></div></div><div id="vc_row-65a41eb374bf8" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1553588277234 thegem-custom-65a41eb374be4974"><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb374d8b138" ><div class="vc_column-inner thegem-custom-inner-65a41eb374d8d "><div class="wpb_wrapper thegem-custom-65a41eb374d8b138"><div class="gem-team row inline-row gem-team-style-4" > <div class="col-md-4 col-sm-6 col-xs-12 inline-column"> <div id="post-1068" class="team-person bordered-box centered-box post-1068 thegem_team_person type-thegem_team_person status-publish has-post-thumbnail" style="background-color: #ffffff; border-color: #dfe5e8; border-bottom-color: #a3e7f0;"> <div class="team-person-image"><span><img width="160" height="160" src="/wp-content/uploads/2019/02/Faces-400x400px-1_1_18-thegem-person-thegem-person-160.jpg" class="img-responsive wp-post-image" alt="Faces-400x400px-1_1_18-thegem-person (Demo)" srcset="/wp-content/uploads/2019/02/Faces-400x400px-1_1_18-thegem-person-thegem-person.jpg 2x" sizes="100vw" /></span></div> <div class="team-person-info clearfix"> <div class="team-person-name styled-subtitle" >Emerson Anderson</div> <div class="team-person-position date-color" >Human Resources</div> <div class="gem-styled-color-1"><div class="team-person-phone title-h5"><a href="tel:+1%20(987)%201625346" style="color: #00bcd4">+1 (987) 1625346</a></div></div> <div class="team-person-email date-color"><a class="date-color" href="mailto:info@domain.tld"></a></div> </div> <a class="team-person-link" href="#" target="_self"></a>	</div> </div> <div class="col-md-4 col-sm-6 col-xs-12 inline-column"> <div id="post-1069" class="team-person bordered-box centered-box post-1069 thegem_team_person type-thegem_team_person status-publish has-post-thumbnail" style="background-color: #ffffff; border-color: #dfe5e8; border-bottom-color: #a3e7f0;"> <div class="team-person-image"><span><img width="160" height="160" src="/wp-content/uploads/2019/02/Faces-400x400px-1_1_19-thegem-person-thegem-person-160.jpg" class="img-responsive wp-post-image" alt="Faces-400x400px-1_1_19-thegem-person (Demo)" srcset="/wp-content/uploads/2019/02/Faces-400x400px-1_1_19-thegem-person-thegem-person.jpg 2x" sizes="100vw" /></span></div> <div class="team-person-info clearfix"> <div class="team-person-name styled-subtitle" >Gordon Edwards</div> <div class="team-person-position date-color" >Chief Financial Officer</div> <div class="gem-styled-color-1"><div class="team-person-phone title-h5"><a href="tel:+1%20(987)%201625346" style="color: #00bcd4">+1 (987) 1625346</a></div></div> <div class="team-person-email date-color"><a class="date-color" href="mailto:info@domain.tld"></a></div> </div> <a class="team-person-link" href="#" target="_self"></a>	</div> </div> <div class="col-md-4 col-sm-6 col-xs-12 inline-column"> <div id="post-1070" class="team-person bordered-box centered-box post-1070 thegem_team_person type-thegem_team_person status-publish has-post-thumbnail" style="background-color: #ffffff; border-color: #dfe5e8; border-bottom-color: #a3e7f0;"> <div class="team-person-image"><span><img width="160" height="160" src="/wp-content/uploads/2019/02/Faces-400x400px-1_1_07-thegem-person-thegem-person-160.jpg" class="img-responsive wp-post-image" alt="Faces-400x400px-1_1_07-thegem-person (Demo)" srcset="/wp-content/uploads/2019/02/Faces-400x400px-1_1_07-thegem-person-thegem-person.jpg 2x" sizes="100vw" /></span></div> <div class="team-person-info clearfix"> <div class="team-person-name styled-subtitle" >Mel Brown</div> <div class="team-person-position date-color" >Chief Executive Officer</div> <div class="gem-styled-color-1"><div class="team-person-phone title-h5"><a href="tel:+1%20(987)%201625346" style="color: #00bcd4">+1 (987) 1625346</a></div></div> <div class="team-person-email date-color"><a class="date-color" href="mailto:info@domain.tld"></a></div> </div> <a class="team-person-link" href="#" target="_self"></a>	</div> </div> </div></div></div></div></div>
+</section>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Text Blog Post (Demo)</title>
+		<link>/index.php/2019/01/16/text-blog-post/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2019 06:38:19 +0000</pubDate>
+				<category><![CDATA[Text News (Demo)]]></category>
+		<category><![CDATA[Uncategorized (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Multimedia (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+		<guid isPermaLink="false">http://democontent.codex-themes.com/sites/agency-digital/images-blog-post-2-copy/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<section class="wpb-content-wrapper"><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb3830cc" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1549888872463 thegem-custom-65a41eb3830aa296 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb3830cc")); }</script><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3833263025" ><div class="vc_column-inner thegem-custom-inner-65a41eb383328 "><div class="wpb_wrapper thegem-custom-65a41eb3833263025">
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_left-to-right left-to-right" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1320" height="961" src="/wp-content/uploads/2019/01/1-1.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" title="1 (Demo)" srcset="/wp-content/uploads/2019/01/1-1.jpg 1320w, /wp-content/uploads/2019/01/1-1-300x218.jpg 300w, /wp-content/uploads/2019/01/1-1-1024x746.jpg 1024w, /wp-content/uploads/2019/01/1-1-768x559.jpg 768w" sizes="(max-width: 1320px) 100vw, 1320px" /></div>
+		</figure>
+	</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb383c8d {margin-top: 94px !important;}</style><div id="thegem-divider-65a41eb383c8d" class="gem-divider  divider-hidden" style="" ></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb383e2e9529" ><div class="vc_column-inner thegem-custom-inner-65a41eb383e31 "><div class="wpb_wrapper thegem-custom-65a41eb383e2e9529">
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551088999664 thegem-vc-text thegem-custom-65a41eb38400d9047"  >
+			<div class="wpb_wrapper">
+				<div class="title-h4">Lorem ipsum dolor sit amet</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb38400d9047{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb38400d9047{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb38400d9047{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb38400d9047{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551089010317 thegem-vc-text thegem-custom-65a41eb3841894841"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3841894841{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3841894841{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3841894841{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3841894841{position: relative !important;}}</style>
+		</div>
+	
+<div class="gem-list lazy-loading gem-list-type-check-style-2 gem-list-color-3" ><ul>
+<li>Lorem ipsum dolor sit amet, consectetur adi pisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</li>
+</ul>
+</div><div class="clearboth"></div><style>#thegem-divider-65a41eb38433b {margin-top: 70px !important;}</style><div id="thegem-divider-65a41eb38433b" class="gem-divider  divider-hidden" style="" ></div><div class="clearboth"></div><style>#thegem-divider-65a41eb38435d {margin-top: 24px !important;}</style><div id="thegem-divider-65a41eb38435d" class="gem-divider  " style="" ></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb38465f" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1553589924804 thegem-custom-65a41eb38463d3429 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb38465f")); }</script><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3848c75792" ><div class="vc_column-inner thegem-custom-inner-65a41eb3848ca "><div class="wpb_wrapper thegem-custom-65a41eb3848c75792"><div class="clearboth"></div><style>#thegem-divider-65a41eb3849f1 {margin-top: 65px !important;}</style><div id="thegem-divider-65a41eb3849f1" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553589249072 thegem-vc-text thegem-custom-65a41eb384aab8959"  >
+			<div class="wpb_wrapper">
+				<div class="title-h4">lorem ipsum dolor</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb384aab8959{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb384aab8959{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb384aab8959{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb384aab8959{position: relative !important;}}</style>
+		</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb384b82 {margin-top: 15px !important;}</style><div id="thegem-divider-65a41eb384b82" class="gem-divider  divider-hidden" style="" ></div><div style='background-color: #ffffff; '  class="gem-quote gem-quote-style-default gem-quote-no-paddings custom-color-blockqute-mark-added" ><blockquote  >..Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ollicitudin, lorem quis bibendum auctor!</blockquote><span style=color:#a3e7f0;  class="custom-color-blockqute-mark">&#xe60c;</span></div><div class="clearboth"></div><style>#thegem-divider-65a41eb384bb9 {margin-top: 15px !important;}</style><div id="thegem-divider-65a41eb384bb9" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553589728850 thegem-vc-text thegem-custom-65a41eb384c423922"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb384c423922{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb384c423922{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb384c423922{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb384c423922{position: relative !important;}}</style>
+		</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb384cf0 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb384cf0" class="gem-divider  divider-hidden" style="" ></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb384ec71804" ><div class="vc_column-inner thegem-custom-inner-65a41eb384eca "><div class="wpb_wrapper thegem-custom-65a41eb384ec71804"><div class="clearboth"></div><style>#thegem-divider-65a41eb384fd3 {margin-top: 80px !important;}</style><div id="thegem-divider-65a41eb384fd3" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1320" height="961" src="/wp-content/uploads/2019/01/2-8.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" title="2 (Demo)" srcset="/wp-content/uploads/2019/01/2-8.jpg 1320w, /wp-content/uploads/2019/01/2-8-300x218.jpg 300w, /wp-content/uploads/2019/01/2-8-1024x746.jpg 1024w, /wp-content/uploads/2019/01/2-8-768x559.jpg 768w" sizes="(max-width: 1320px) 100vw, 1320px" /></div>
+		</figure>
+	</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb3856a0 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb3856a0" class="gem-divider  divider-hidden" style="" ></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-65a41eb38592b" class="vc_row wpb_row vc_row-fluid vc_custom_1553590107754 thegem-custom-65a41eb3859149754 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb385b3c3775" ><div class="vc_column-inner thegem-custom-inner-65a41eb385b3e "><div class="wpb_wrapper thegem-custom-65a41eb385b3c3775"><div class="clearboth"></div><style>#thegem-divider-65a41eb385c1c {margin-top: 40px !important;}</style><div id="thegem-divider-65a41eb385c1c" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_left-to-right left-to-right" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1320" height="961" src="/wp-content/uploads/2019/01/3-5.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" title="3 (Demo)" srcset="/wp-content/uploads/2019/01/3-5.jpg 1320w, /wp-content/uploads/2019/01/3-5-300x218.jpg 300w, /wp-content/uploads/2019/01/3-5-1024x746.jpg 1024w, /wp-content/uploads/2019/01/3-5-768x559.jpg 768w" sizes="(max-width: 1320px) 100vw, 1320px" /></div>
+		</figure>
+	</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb38626e {margin-top: 70px !important;}</style><div id="thegem-divider-65a41eb38626e" class="gem-divider  divider-hidden" style="" ></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3863e27014" ><div class="vc_column-inner thegem-custom-inner-65a41eb3863e4 "><div class="wpb_wrapper thegem-custom-65a41eb3863e27014"><div class="clearboth"></div><style>#thegem-divider-65a41eb38651b {margin-top: 40px !important;}</style><div id="thegem-divider-65a41eb38651b" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1549293533588 thegem-vc-text thegem-custom-65a41eb3865a48471"  >
+			<div class="wpb_wrapper">
+				<div class="title-h4">lorem ipsum dolor</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3865a48471{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3865a48471{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3865a48471{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3865a48471{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1549293587727 thegem-vc-text thegem-custom-65a41eb38669d4379"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb38669d4379{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb38669d4379{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb38669d4379{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb38669d4379{position: relative !important;}}</style>
+		</div>
+	
+<div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style="border: 1px solid #cccccc;"><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 8px;padding-bottom: 16px;"><div class="gem-dropcap gem-dropcap-shape-circle gem-dropcap-style-medium"><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #00bcd4;">1</span></div>
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1549721022702 thegem-vc-text thegem-custom-65a41eb3868575112"  >
+			<div class="wpb_wrapper">
+				<div class="styled-subtitle"><span style="color: #00bcd4;">Lorem ipsum dolor sit amet consectetur</span></div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3868575112{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3868575112{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3868575112{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3868575112{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div><div class="clearboth"></div><style>#thegem-divider-65a41eb38693e {margin-top: -25px !important;}</style><div id="thegem-divider-65a41eb38693e" class="gem-divider  " style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style="border: 1px solid #cccccc;"><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 8px;padding-bottom: 16px;"><div class="gem-dropcap gem-dropcap-shape-circle gem-dropcap-style-medium"><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #1fa4e0;">2</span></div>
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1549721122217 thegem-vc-text thegem-custom-65a41eb386a3b6819"  >
+			<div class="wpb_wrapper">
+				<div class="styled-subtitle"><span style="color: #1fa4e0;">Lorem ipsum dolor sit amet, consectetur</span></div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb386a3b6819{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb386a3b6819{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb386a3b6819{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb386a3b6819{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div><div class="clearboth"></div><style>#thegem-divider-65a41eb386afe {margin-top: -25px !important;}</style><div id="thegem-divider-65a41eb386afe" class="gem-divider  " style="" ></div><div class="lazy-loading" data-ll-item-delay="0"><div class="gem-textbox  lazy-loading-item"  data-ll-effect="move-up" ><div class="gem-textbox-inner" style="border: 1px solid #cccccc;"><div class="gem-textbox-content" style="background-color: #f0f3f2;background-position: center top;padding-top: 8px;padding-bottom: 16px;"><div class="gem-dropcap gem-dropcap-shape-circle gem-dropcap-style-medium"><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #7668c1;">3</span></div>
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1549721164866 thegem-vc-text thegem-custom-65a41eb386c1f9058"  >
+			<div class="wpb_wrapper">
+				<div class="styled-subtitle"><span style="color: #7668c1;">Lorem ipsum dolor sit amet, consectetur</span></div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb386c1f9058{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb386c1f9058{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb386c1f9058{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb386c1f9058{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div><div class="clearboth"></div><style>#thegem-divider-65a41eb386ce2 {margin-top: 70px !important;}</style><div id="thegem-divider-65a41eb386ce2" class="gem-divider  divider-hidden" style="" ></div></div></div></div></div><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb387061" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1553591612092 thegem-custom-65a41eb3870463911 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb387061")); }</script><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb387231647" ><div class="vc_column-inner thegem-custom-inner-65a41eb387233 "><div class="wpb_wrapper thegem-custom-65a41eb387231647"><div class="clearboth"></div><style>#thegem-divider-65a41eb387368 {margin-top: 55px !important;}</style><div id="thegem-divider-65a41eb387368" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  vc_custom_1553591418167 thegem-vc-text thegem-custom-65a41eb3873f74918"  >
+			<div class="wpb_wrapper">
+				<div class="title-h4">lorem ipsum dolor</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3873f74918{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3873f74918{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3873f74918{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3873f74918{position: relative !important;}}</style>
+		</div>
+	
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1549294129971 thegem-custom-65a41eb3876188368 custom-inner-column-65a41eb38762b" ><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3878027423"><div class="vc_column-inner thegem-custom-inner-65a41eb387804 "><div class="wpb_wrapper thegem-custom-65a41eb3878027423"><div class="gem-dropcap gem-dropcap-shape-circle gem-dropcap-style-medium"><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #242332;">L</span></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551089092364 thegem-vc-text thegem-custom-65a41eb387942948"  >
+			<div class="wpb_wrapper">
+				<p>orem ipsum dolor sit amet, consectetur adipisicing elit orem ipsum dolor sit amet, consectetur adipisicing elit eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb387942948{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb387942948{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb387942948{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb387942948{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb387b131143"><div class="vc_column-inner thegem-custom-inner-65a41eb387b15 "><div class="wpb_wrapper thegem-custom-65a41eb387b131143">
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551089099647 thegem-vc-text thegem-custom-65a41eb387c4f7684"  >
+			<div class="wpb_wrapper">
+				<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb387c4f7684{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb387c4f7684{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb387c4f7684{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb387c4f7684{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb387ff61882" ><div class="vc_column-inner thegem-custom-inner-65a41eb387ff9 "><div class="wpb_wrapper thegem-custom-65a41eb387ff61882"><div class="clearboth"></div><style>#thegem-divider-65a41eb3880f9 {margin-top: 70px !important;}</style><div id="thegem-divider-65a41eb3880f9" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1320" height="961" src="/wp-content/uploads/2019/01/4-5.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" title="4 (Demo)" srcset="/wp-content/uploads/2019/01/4-5.jpg 1320w, /wp-content/uploads/2019/01/4-5-300x218.jpg 300w, /wp-content/uploads/2019/01/4-5-1024x746.jpg 1024w, /wp-content/uploads/2019/01/4-5-768x559.jpg 768w" sizes="(max-width: 1320px) 100vw, 1320px" /></div>
+		</figure>
+	</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb3887e6 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb3887e6" class="gem-divider  divider-hidden" style="" ></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+</section>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Images Blog Post (Demo)</title>
+		<link>/index.php/2019/01/15/images-blog-post-3/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 15 Jan 2019 07:23:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Multimedia (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+		<guid isPermaLink="false">http://democontent.codex-themes.com/sites/agency-digital/images-blog-post-2-copy/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<section class="wpb-content-wrapper"><div class="vc_row-full-width-before"></div><div id="vc_row-65a41eb390a21" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1547907762580 thegem-custom-65a41eb3909f04649 vc_row-has-fill"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-65a41eb390a21")); }</script><div class="wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb390ca39446" ><div class="vc_column-inner thegem-custom-inner-65a41eb390ca6 vc_custom_1553585761398"><div class="wpb_wrapper thegem-custom-65a41eb390ca39446"><div class="vc_row wpb_row vc_inner vc_row-fluid thegem-custom-65a41eb390f371794 custom-inner-column-65a41eb390f41" ><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb39114a2286"><div class="vc_column-inner thegem-custom-inner-65a41eb39114c vc_custom_1553585684563"><div class="wpb_wrapper thegem-custom-65a41eb39114a2286"><div class="clearboth"></div><style>#thegem-divider-65a41eb39124f {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb39124f" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1024" height="1019" src="/wp-content/uploads/2019/01/2-4-1024x1019.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" title="2 (Demo)" srcset="/wp-content/uploads/2019/01/2-4-1024x1019.jpg 1024w, /wp-content/uploads/2019/01/2-4-300x298.jpg 300w, /wp-content/uploads/2019/01/2-4-150x150.jpg 150w, /wp-content/uploads/2019/01/2-4-768x764.jpg 768w, /wp-content/uploads/2019/01/2-4-256x256.jpg 256w, /wp-content/uploads/2019/01/2-4.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></div>
+		</figure>
+	</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3917665037"><div class="vc_column-inner thegem-custom-inner-65a41eb39176a vc_custom_1553585677637"><div class="wpb_wrapper thegem-custom-65a41eb3917665037"><div class="clearboth"></div><style>#thegem-divider-65a41eb391899 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb391899" class="gem-divider  " style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left right-to-left vc_custom_1551087848425 thegem-vc-text thegem-custom-65a41eb39193e3291"  >
+			<div class="wpb_wrapper">
+				<div class="styled-subtitle title-h4" style="text-align: left;">Lorem ipsum dolor sit amet</div>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb39193e3291{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb39193e3291{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb39193e3291{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb39193e3291{position: relative !important;}}</style>
+		</div>
+	
+
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1551087859021 thegem-vc-text thegem-custom-65a41eb391a5b640"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb391a5b640{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb391a5b640{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb391a5b640{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb391a5b640{position: relative !important;}}</style>
+		</div>
+	
+<div class="gem-list lazy-loading gem-list-type-check-style-2 gem-list-color-2" ><ul>
+<li>Lorem ipsum dolor sit amet, consectetur adi pisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</li>
+</ul>
+</div><div class="clearboth"></div><style>#thegem-divider-65a41eb391c2c {margin-top: 40px !important;}</style><div id="thegem-divider-65a41eb391c2c" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553586010778 thegem-vc-text thegem-custom-65a41eb391cdb8562"  >
+			<div class="wpb_wrapper">
+				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb391cdb8562{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb391cdb8562{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb391cdb8562{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb391cdb8562{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid thegem-custom-65a41eb3920821684 custom-inner-column-65a41eb39208d" ><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb3922422330"><div class="vc_column-inner thegem-custom-inner-65a41eb392244 "><div class="wpb_wrapper thegem-custom-65a41eb3922422330"><div class="clearboth"></div><style>#thegem-divider-65a41eb392314 {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb392314" class="gem-divider  divider-hidden" style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top thegem-vc-text thegem-custom-65a41eb3923a22834"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3923a22834{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3923a22834{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb3923a22834{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb3923a22834{position: relative !important;}}</style>
+		</div>
+	
+<div class="clearboth"></div><style>#thegem-divider-65a41eb39245a {margin-top: 30px !important;}</style><div id="thegem-divider-65a41eb39245a" class="gem-divider  " style="" ></div><div class="clearboth"></div><style>#thegem-divider-65a41eb392476 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb392476" class="gem-divider  divider-hidden" style="" ></div><div style='background-color: #ffffff; '  class="gem-quote gem-quote-style-1 gem-quote-no-paddings" ><blockquote  >&#8230;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</blockquote></div><div class="clearboth"></div><style>#thegem-divider-65a41eb3924a1 {margin-top: 25px !important;}</style><div id="thegem-divider-65a41eb3924a1" class="gem-divider  divider-hidden" style="" ></div><div class="clearboth"></div><style>#thegem-divider-65a41eb3924b3 {margin-top: 20px !important;}</style><div id="thegem-divider-65a41eb3924b3" class="gem-divider  " style="" ></div>
+	
+		<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1553586170360 thegem-vc-text thegem-custom-65a41eb39251d6111"  >
+			<div class="wpb_wrapper">
+				<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+			</div>
+			<style>@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb39251d6111{display: block!important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb39251d6111{display: block!important;}}@media screen and (max-width: 1023px) {.thegem-vc-text.thegem-custom-65a41eb39251d6111{position: relative !important;}}@media screen and (max-width: 767px) {.thegem-vc-text.thegem-custom-65a41eb39251d6111{position: relative !important;}}</style>
+		</div>
+	
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 thegem-custom-65a41eb39273a4262"><div class="vc_column-inner thegem-custom-inner-65a41eb39273c "><div class="wpb_wrapper thegem-custom-65a41eb39273a4262"><div class="clearboth"></div><style>#thegem-divider-65a41eb3927ee {margin-top: 50px !important;}</style><div id="thegem-divider-65a41eb3927ee" class="gem-divider  divider-hidden" style="" ></div>
+	
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top" >
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1024" height="1019" src="/wp-content/uploads/2019/01/3-2-1024x1019.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" title="3 (Demo)" srcset="/wp-content/uploads/2019/01/3-2-1024x1019.jpg 1024w, /wp-content/uploads/2019/01/3-2-300x298.jpg 300w, /wp-content/uploads/2019/01/3-2-150x150.jpg 150w, /wp-content/uploads/2019/01/3-2-768x764.jpg 768w, /wp-content/uploads/2019/01/3-2-256x256.jpg 256w, /wp-content/uploads/2019/01/3-2.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></div>
+		</figure>
+	</div>
+	
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-65a41eb392f65" class="vc_row wpb_row vc_row-fluid images-blog-post thegem-custom-65a41eb392f585166"><div class="wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top wpb_column vc_column_container vc_col-sm-12 thegem-custom-65a41eb3931096531" ><div class="vc_column-inner thegem-custom-inner-65a41eb39310a "><div class="wpb_wrapper thegem-custom-65a41eb3931096531"><style>.gem-gallery-grid#style-65a41eb3932fa .gallery-item { padding: calc(42px/2) !important; }.gem-gallery-grid#style-65a41eb3932fa .gallery-set { margin-top: calc(-42px/2); margin-bottom: calc(-42px/2); }.gem-gallery-grid#style-65a41eb3932fa .not-fullwidth-block .gallery-set, .gem-gallery-grid#style-65a41eb3932fa .not-fullwidth-block .portfolio-item-size-container { margin-left: calc(-42px/2); margin-right: calc(-42px/2); }.gem-gallery-grid#style-65a41eb3932fa .fullwidth-block { padding-left: calc(42px/2); padding-right: calc(42px/2); }.gem-gallery-grid#style-65a41eb3932fa .portfolio-filters { text-align: center }</style><div id="style-preloader-65a41eb3932fa" class="preloader save-space"><div class="preloader-spin"></div></div> <div class="gallery-preloader-wrapper"> <div class="row"> <div id="style-65a41eb3932fa" class="gem-gallery-grid col-lg-12 col-md-12 col-sm-12 gallery-style-justified hover-default loading-animation item-animation-move-up columns-4 columns-tablet-2 columns-mobile-1 gaps-margin " data-hover="default" data-uid="65a41eb3932fa" data-filter="[]"> <div class="portfolio not-fullwidth-block "> <ul class="gallery-set clearfix" data-max-row-height="280"> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-807 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/7-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/7-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/7-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/7-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="7 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/7-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb3932fa"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/7-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-807 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/6-3.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/6-3-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/6-3-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/6-3-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="6 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/6-3.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb3932fa"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/6-3.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-807 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/5-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/5-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/5-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/5-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="5 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/5-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb3932fa"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/5-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> <li class="gallery-item gallery-0 col-xs-12 col-sm-6 col-md-3 item-animations-not-inited single-icon post-807 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> <div class="wrap gem-wrapbox-style-default"> <div class="overlay-wrap"> <div class="image-wrap "> <picture> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square.jpg 1x, /wp-content/uploads/2019/01/4-2.jpg 2x" media="(max-width: 767px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-l.jpg 1x, /wp-content/uploads/2019/01/4-2-thegem-product-justified-square-double-l.jpg 2x" media="(max-width: 992px)" sizes="100vw"> <source srcset="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-s.jpg 1x, /wp-content/uploads/2019/01/4-2-thegem-product-justified-square-double-s.jpg 2x" sizes="100vw"> <img src="/wp-content/uploads/2019/01/4-2-thegem-product-justified-square-s.jpg" width="300" height="300" class="attachment-thegem-product-justified-square-s" alt="4 (Demo)" /> </picture> </div> <div class="overlay "> <div class="overlay-circle"></div> <a href="/wp-content/uploads/2019/01/4-2.jpg" class="gallery-item-link fancy-gallery" data-fancybox="gallery-65a41eb3932fa"> <span class="slide-info"> </span> </a> <div class="overlay-content"> <div class="overlay-content-center"> <div class="overlay-content-inner"> <a href="/wp-content/uploads/2019/01/4-2.jpg" class="icon photo " > </a> <div class="overlay-line"></div> </div> </div> </div> </div> </div> </div> </li> </ul> <div class="portfolio-item-size-container"> <li class="gallery-item size-item col-xs-12 col-sm-6 col-md-3 post-807 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-development tag-multimedia tag-webdesign" style=""> </li> </div> </div> </div> </div> </div></div></div></div></div>
+</section>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

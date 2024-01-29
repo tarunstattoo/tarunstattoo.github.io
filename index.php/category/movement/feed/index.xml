@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Movement (Demo) &#8211; Taruns Tattoo</title>
+	<atom:link href="/index.php/category/movement/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 May 2020 07:57:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo-1-e1698161341587.png</url>
+	<title>Movement (Demo) &#8211; Taruns Tattoo</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-12/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-12/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:57:29 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3366</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-11/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:56:51 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3364</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor (Demo)</title>
+		<link>/index.php/2020/05/14/lorem-ipsum-dolor-10/</link>
+					<comments>/index.php/2020/05/14/lorem-ipsum-dolor-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:55:31 +0000</pubDate>
+				<category><![CDATA[Movement (Demo)]]></category>
+		<guid isPermaLink="false">https://democontent.codex-themes.com/thegem-blocks/?p=3362</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/05/14/lorem-ipsum-dolor-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
